@@ -1,0 +1,18 @@
+.employee-list {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .employee-list th, .employee-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .employee-list th {
+    background-color: #f4f4f4;
+  }
+  
+  .employee-list td button {
+    margin-right: 5px;
+  }
+  
